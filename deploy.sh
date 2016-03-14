@@ -15,4 +15,4 @@ git commit -m "$msg"
 
 # Push source and build repos.
 git push origin gh-pages
-git subtree push --prefix=public git@github.com:spencerlyon2/hugo_gh_blog.git master
+git subtree push --prefix=public https://github.com/buzmaxx/buzmaxx.github.io.git master
