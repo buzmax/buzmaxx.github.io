@@ -2,7 +2,6 @@
 date: 2016-03-09T19:56:50+01:00
 title: Everyday notes
 ---
+## Март:
 
-## here section for everyday notes
-
-тест тест тест
+[15 марта 2016]({{< ref "everyday/15_03_2016.md" >}})

@@ -5,4 +5,5 @@ title: Blog
 
 ## Here maybe will be my blog
 
-bla bla bla
+[hello-android-development-tools.markdown]({{< ref "blog/2015-08-06-hello-android-development-tools.md" >}})
+

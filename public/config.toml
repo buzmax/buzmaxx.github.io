@@ -44,7 +44,7 @@ canonifyurls = true
 	url    = "/"
 	weight = 0
 
-[[menu.main]]
+[[menu.list]]
 	name   = "Blog"
 	url    = "blog/"
 	weight = 10
