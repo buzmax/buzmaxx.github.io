@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Everydays on Max Bazaleev</title>
+    <link>http://buzmaxx.github.io/everyday/</link>
+    <description>Recent content in Everydays on Max Bazaleev</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 09 Mar 2016 19:56:50 +0100</lastBuildDate>
+    <atom:link href="http://buzmaxx.github.io/everyday/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Everyday notes</title>
+      <link>http://buzmaxx.github.io/everyday/</link>
+      <pubDate>Wed, 09 Mar 2016 19:56:50 +0100</pubDate>
+      
+      <guid>http://buzmaxx.github.io/everyday/</guid>
+      <description>
+
+&lt;h2 id=&#34;here-section-for-everyday-notes&#34;&gt;here section for everyday notes&lt;/h2&gt;
+
+&lt;p&gt;тест тест тест&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
