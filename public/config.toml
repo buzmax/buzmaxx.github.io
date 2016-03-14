@@ -1,0 +1,62 @@
+baseurl = "http://buzmaxx.github.io/"
+languageCode = "en-us"
+title = "Max Bazaleev"
+theme = "hugo-material-docs"
+metadataformat = "yaml"
+canonifyurls = true
+
+[params]
+	# General information
+	author = "Max Bazaleev"
+	description = ""
+	copyright = ""
+
+	# Repository
+
+
+	permalink = "#"
+
+	# Google Analytics
+	# 
+	# Add your tracking code as first value followed by a comma
+	google_analytics = ["auto"]
+
+	# Custom assets
+	custom_css = []
+	custom_js  = []
+
+	[params.palette]
+    	primary = "red"
+    	accent  = "light green"
+
+    [params.font]
+    	text = "Ubuntu"
+    	code = "Ubuntu Mono"
+
+
+[social]
+	twitter = "buzmaximka"
+	github  = "buzmaxx"
+
+
+[[menu.main]]
+	name   = "Home"
+	url    = "/"
+	weight = 0
+
+[[menu.main]]
+	name   = "Blog"
+	url    = "blog/"
+	weight = 10
+
+[[menu.main]]
+	name   = "Everyday notes"
+	url    = "everyday/"
+	weight = 20
+
+
+[blackfriday]
+	smartypants	= true
+	fractions = true
+	smartDashes = true
+	plainIDAnchors = true
