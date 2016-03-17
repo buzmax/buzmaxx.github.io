@@ -9,3 +9,5 @@ title: Everyday notes
 [15 марта 2016]({{< ref "everyday/15_03_2016.md" >}})
 
 [16 марта 2016]({{< ref "everyday/16_03_2016.md" >}})
+
+[17 марта 2016]({{< ref "everyday/17_03_2016.md" >}})
