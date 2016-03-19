@@ -4,6 +4,8 @@ title: Everyday notes
 ---
 ## Март:
 
+[19 марта 2016]({{< ref "everyday/19_03_2016.md" >}})
+
 [18 марта 2016]({{< ref "everyday/18_03_2016.md" >}})
 
 [17 марта 2016]({{< ref "everyday/17_03_2016.md" >}})
