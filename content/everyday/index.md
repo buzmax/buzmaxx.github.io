@@ -5,6 +5,10 @@ title: Everyday notes
 
 ## Апрель:
 
+[8-19 апреля 2016]({{< ref "everyday/april_2016/8-19_04_2016.md" >}})
+
+[7 апреля 2016]({{< ref "everyday/april_2016/7_04_2016.md" >}})
+
 [6 апреля 2016]({{< ref "everyday/april_2016/6_04_2016.md" >}})
 
 [5 апреля 2016]({{< ref "everyday/april_2016/5_04_2016.md" >}})
