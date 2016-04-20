@@ -61,8 +61,8 @@ canonifyurls = true
 
 [[menu.main]]
 	name   = "100"
-	url    = "/"
-	weight = 0
+	url    = "100/"
+	weight = 40
 
 
 [blackfriday]
