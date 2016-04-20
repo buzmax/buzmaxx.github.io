@@ -59,6 +59,11 @@ canonifyurls = true
 	url    = "everyday/"
 	weight = 30
 
+[[menu.main]]
+	name   = "100"
+	url    = "/"
+	weight = 0
+
 
 [blackfriday]
 	smartypants	= true
