@@ -6,12 +6,13 @@
     <description>Recent content in Post on Max Bazaleev</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <lastBuildDate>Wed, 09 Mar 2016 19:56:50 +0100</lastBuildDate>
     <atom:link href="http://buzmaxx.github.io/categories/post/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Android development tools</title>
       <link>http://buzmaxx.github.io/blog/2015-08-06-hello-android-development-tools/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 09 Mar 2016 19:56:50 +0100</pubDate>
       
       <guid>http://buzmaxx.github.io/blog/2015-08-06-hello-android-development-tools/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Android SDK&lt;/strong&gt; включает в себя пакет утилт &lt;strong&gt;Android development tools&lt;/strong&gt;, которые помогают в разработке и значительно облегчают жизнь разработчика. Важно иметь хотя бы поверхностное представление о содержимом этого пакета. Постараюсь вкратце описать все, остановлюсь более подробно на самых используемых и полезных.&lt;/p&gt;
