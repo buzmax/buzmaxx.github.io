@@ -14,5 +14,5 @@ fi
 git commit -m "$msg"
 
 # Push source and build repos.
-git push origin gh-pages
-git subtree push --prefix=public https://github.com/buzmaxx/buzmaxx.github.io.git master
+git push -f origin gh-pages
+git subtree push -f --prefix=public https://github.com/buzmaxx/buzmaxx.github.io.git master
