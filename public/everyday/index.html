@@ -260,7 +260,7 @@
 
 			
 
-<h2 id="май">Май:</h2>
+<h2 id="май">Май</h2>
 
 <p><a href="http://buzmaxx.github.io/everyday/may_2016/13_05_2016/">13 мая 2016</a></p>
 
@@ -288,7 +288,7 @@
 
 <p><a href="http://buzmaxx.github.io/everyday/may_2016/1_05_2016/">1 мая 2016</a></p>
 
-<h2 id="апрель">Апрель:</h2>
+<h2 id="апрель">Апрель</h2>
 
 <p><a href="http://buzmaxx.github.io/everyday/april_2016/30_04_2016/">30 апреля 2016</a></p>
 
@@ -328,7 +328,7 @@
 
 <p><a href="http://buzmaxx.github.io/everyday/april_2016/1_04_2016/">1 апреля 2016</a></p>
 
-<h2 id="март">Март:</h2>
+<h2 id="март">Март</h2>
 
 <p><a href="http://buzmaxx.github.io/everyday/march_2016/31_03_2016/">31 марта 2016</a></p>
 
@@ -432,4 +432,47 @@
 
     <script>
       var base_url = 'http:\/\/buzmaxx.github.io\/';
-      var repo_id  = '
+      var repo_id  = '';
+    </script>
+    <script src="http://buzmaxx.github.io/javascripts/application.js"></script>
+    
+
+    <script>
+      /* Add headers to scrollspy */
+      var headers   = document.getElementsByTagName("h2");
+      var scrollspy = document.getElementById('scrollspy');
+
+      if(headers.length > 0) {
+        for(var i = 0; i < headers.length; i++) {
+          var li = document.createElement("li");
+          li.setAttribute("class", "anchor");
+
+          var a  = document.createElement("a");
+          a.setAttribute("href", "#" + headers[i].id);
+          a.setAttribute("title", headers[i].innerHTML);
+          a.innerHTML = headers[i].innerHTML;
+          
+          li.appendChild(a)
+          scrollspy.appendChild(li);
+        }
+      } else {
+        scrollspy.parentElement.removeChild(scrollspy)
+      }
+      
+
+      "/* Add permanent link next to the headers */"
+      var headers = document.querySelectorAll("h1, h2, h3, h4, h5, h6");
+
+      for(var i = 0; i < headers.length; i++) {
+          var a = document.createElement("a");
+          a.setAttribute("class", "headerlink");
+          a.setAttribute("href", "#" + headers[i].id);
+          a.setAttribute("title", "Permanent link")
+          a.innerHTML = "#";
+          headers[i].appendChild(a);
+      }
+    </script>
+
+    
+  </body>
+</html>

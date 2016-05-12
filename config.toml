@@ -8,8 +8,6 @@ canonifyurls = true
 [params]
 	# General information
 	author = "Max Bazaleev"
-	description = ""
-	copyright = ""
 
 	# Repository
 

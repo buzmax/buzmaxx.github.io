@@ -1,6 +1,6 @@
     <script>
-      var base_url = '{{ (printf "%s" .Site.BaseURL) | safeJS }}';
-      var repo_id  = '{{ (.Scratch.Get "repo_id") | safeJS }}';
+      var base_url = '{{ (printf "%s" .Site.BaseURL) }}';
+      var repo_id  = '{{ (.Scratch.Get "repo_id")  }}';
     </script>
     <script src="{{ .Site.BaseURL }}javascripts/application.js"></script>
     {{ range .Site.Params.custom_js }}
@@ -30,7 +30,7 @@
       }
       
 
-      {{ "/* Add permanent link next to the headers */" | safeJS }}
+      {{ "/* Add permanent link next to the headers */" }}
       var headers = document.querySelectorAll("h1, h2, h3, h4, h5, h6");
 
       for(var i = 0; i < headers.length; i++) {

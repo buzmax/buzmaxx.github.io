@@ -4,7 +4,7 @@ title: Everyday notes
 ---
 
 
-## Май:
+## Май
 
 [13 мая 2016]({{< ref "everyday/may_2016/13_05_2016.md" >}})
 
@@ -32,7 +32,7 @@ title: Everyday notes
 
 [1 мая 2016]({{< ref "everyday/may_2016/1_05_2016.md" >}})
 
-## Апрель:
+## Апрель
 
 [30 апреля 2016]({{< ref "everyday/april_2016/30_04_2016.md" >}})
 
@@ -73,7 +73,7 @@ title: Everyday notes
 [1 апреля 2016]({{< ref "everyday/april_2016/1_04_2016.md" >}})
 
 
-## Март:
+## Март
 
 [31 марта 2016]({{< ref "everyday/march_2016/31_03_2016.md" >}})
 
