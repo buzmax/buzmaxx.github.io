@@ -263,6 +263,11 @@
   </url>
   
   <url>
+    <loc>http://buzmaxx.github.io/blog/2015-08-06-hello-android-development-tools/</loc>
+    <lastmod>2016-03-09T19:56:50+01:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://buzmaxx.github.io/everyday/</loc>
     <lastmod>2016-03-09T19:56:50+01:00</lastmod>
   </url>
@@ -285,10 +290,6 @@
   <url>
     <loc>http://buzmaxx.github.io/</loc>
     <lastmod>2016-03-08T21:07:13+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://buzmaxx.github.io/blog/2015-08-06-hello-android-development-tools/</loc>
   </url>
   
 </urlset>
