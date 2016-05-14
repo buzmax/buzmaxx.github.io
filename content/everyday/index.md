@@ -6,6 +6,8 @@ title: Everyday notes
 
 ## Май
 
+[14 мая 2016]({{< ref "everyday/may_2016/14_05_2016.md" >}})
+
 [13 мая 2016]({{< ref "everyday/may_2016/13_05_2016.md" >}})
 
 [12 мая 2016]({{< ref "everyday/may_2016/12_05_2016.md" >}})
